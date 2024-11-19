@@ -2,7 +2,7 @@ This project is a simple Tic Tac Toe game built with Python using the Tkinter li
 
 **Features**
 
-• _Interactive GUI:_ Created using Tkinter, with clickable buttons for each grid cell.
+• _Interactive GUI:_ Created using Tkinter, with clickable buttons for each grid cell. \n
 • _Player Turns:_ Tracks turns between Player X and Player O.
 • _Winner Detection:_ Checks for winning conditions (rows, columns, diagonals).
 • _Reset Functionality_: Resets the game for a new match after a winner is declared.
