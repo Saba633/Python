@@ -1,17 +1,7 @@
-
-#   STEPS:
-# 1-- Create the Basic Tkinter Window
-# 2-- Create the Game Board
-# 3-- Handle Button Clicks
-# 4--Update Button Clicks
-# 5-- Check for a Winner
-# 6-- Display the Winner
-# 7-- Reset the Game
-
 import tkinter as tk
 from tkinter import messagebox
 def main():
-# Create the Basic Tkinter Window
+# Main Tkinter Window
     root = tk.Tk()
     root.title('Tic Tac Toe')
     root.geometry('400x480')
